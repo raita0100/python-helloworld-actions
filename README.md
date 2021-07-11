@@ -2,4 +2,4 @@
 
 This is a basic Python Flask application.
 
-> test app
+> test app for continuous integration.
